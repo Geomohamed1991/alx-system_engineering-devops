@@ -1,2 +1,2 @@
-#!/bin/bash
-printenv | "'ls |wc -1'"
+#!/bin/bash 
+PATH=$"'ls |wc -1'"
